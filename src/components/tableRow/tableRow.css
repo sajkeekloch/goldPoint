@@ -1,0 +1,17 @@
+.table__row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid rgb(223, 223, 223);
+}
+
+.table__row:hover {
+    border-bottom: 1px solid rgb(255, 96, 96);
+    cursor: pointer;
+}
+
+.table__row li {
+    width: 30%;
+}

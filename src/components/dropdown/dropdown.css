@@ -1,0 +1,40 @@
+.dropdown {
+  display: none;
+  opacity: 0;
+  width: 100%;
+  position: relative;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: center;
+  transition: 1s;
+  border: 1px solid #333;
+}
+
+.visible {
+  display: flex;
+  opacity: 1;
+  transition: 1s;
+}
+
+.visible li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.visible li p {
+  margin-right: 10px;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+}
+
+.visible li:nth-child(2n) {
+  background-color:rgb(230, 230, 230);
+}
+
+.close {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+}

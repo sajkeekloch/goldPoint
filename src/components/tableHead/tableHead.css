@@ -1,0 +1,18 @@
+.table__head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    width: 100%;
+    border-bottom: 2px solid rgb(230, 230, 230);
+    height: 30px;
+    background-color: rgb(230, 230, 230);
+}
+
+.table__head li {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
