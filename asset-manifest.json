@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/goldPoing/static/css/main.584c2e84.css",
-    "main.js": "/goldPoing/static/js/main.0f7ddc9a.js",
-    "index.html": "/goldPoing/index.html",
-    "static/media/x.svg": "/goldPoing/static/media/x.03b4588c900a3cddf18d01980cd6af7d.svg",
-    "main.584c2e84.css.map": "/goldPoing/static/css/main.584c2e84.css.map",
-    "main.0f7ddc9a.js.map": "/goldPoing/static/js/main.0f7ddc9a.js.map"
+    "main.css": "/static/css/main.584c2e84.css",
+    "main.js": "/static/js/main.fcb7e676.js",
+    "index.html": "/index.html",
+    "static/media/x.svg": "/static/media/x.03b4588c900a3cddf18d01980cd6af7d.svg",
+    "main.584c2e84.css.map": "/static/css/main.584c2e84.css.map",
+    "main.fcb7e676.js.map": "/static/js/main.fcb7e676.js.map"
   },
   "entrypoints": [
     "static/css/main.584c2e84.css",
-    "static/js/main.0f7ddc9a.js"
+    "static/js/main.fcb7e676.js"
   ]
 }
